@@ -130,8 +130,8 @@ After pushing the project to GitHub:
 
 **Amritalakshmi M.**
 
-* GitHub: [@amritalakshmim][(YOUR_GITHUB_URL)](https://github.com/amritalakshmim)
-* LinkedIn: [LinkedIn Profile][(YOUR_LINKEDIN_URL)](https://www.linkedin.com/in/amritalakshmim)
+* GitHub: [@amritalakshmim](https://github.com/amritalakshmim)
+* LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/amritalakshmim)
 * Portfolio: [Live Website](https://amritalakshmim.vercel.app)
 
 ## 📄 License
